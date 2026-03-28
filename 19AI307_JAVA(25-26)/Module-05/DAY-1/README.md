@@ -17,8 +17,8 @@ To write character data into a file using the FileWriter class in Java.
  ```
 /*
 Program to implement a InputStreamReader using Java
-Developed by: KARTHIK G
-RegisterNumber: 212223220043 
+Developed by: RAMPRASATH R
+RegisterNumber:  212223220086
 */
 ```
 
