@@ -39,7 +39,7 @@ To simulate a radar control system where only one tower instance handles multipl
 /*
 Program to implement a SOLID Principles in Java Program
 Developed by: KARTHIK G
-RegisterNumber:  212223220043
+RegisterNumber:  212223220086
 */
 ```
 
